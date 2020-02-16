@@ -10,7 +10,7 @@ An application to read the customer data from an input file and display the cust
 
 ## How to run
 
-Download and extract the zipped file. Choose the Intercom Test target and run.
+Download or clone the project. Choose the Intercom Test target and run.
 
 ## Test
 
